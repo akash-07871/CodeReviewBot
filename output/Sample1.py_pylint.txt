@@ -1,0 +1,9 @@
+************* Module Sample1
+sample_code\Sample1.py:17:0: C0305: Trailing newlines (trailing-newlines)
+sample_code\Sample1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+sample_code\Sample1.py:1:0: C0103: Module name "Sample1" doesn't conform to snake_case naming style (invalid-name)
+sample_code\Sample1.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

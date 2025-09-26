@@ -1,0 +1,10 @@
+************* Module Sample2
+sample_code\Sample2.py:20:0: C0305: Trailing newlines (trailing-newlines)
+sample_code\Sample2.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+sample_code\Sample2.py:1:0: C0103: Module name "Sample2" doesn't conform to snake_case naming style (invalid-name)
+sample_code\Sample2.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+sample_code\Sample2.py:8:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

@@ -1,0 +1,2 @@
+C:\Akash_OneDrive\OneDrive\Desktop\CodeReviewBot\sample_code\Sample1.py:10:1: E305 expected 2 blank lines after class or function definition, found 1
+C:\Akash_OneDrive\OneDrive\Desktop\CodeReviewBot\sample_code\Sample1.py:17:1: W391 blank line at end of file
